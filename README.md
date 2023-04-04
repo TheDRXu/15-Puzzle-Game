@@ -10,7 +10,7 @@ How to use the code:
 Input : puzzle state (10-15 is A-F)<br />
 Output : best movement solution
 
-Example: 
+Example: <br/>
 Input : 0942A65D78BE1C3F<br />
 Output : No solution!!
 
