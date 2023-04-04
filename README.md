@@ -3,7 +3,7 @@
 15 Puzzle Game Solver using C++ language
 
 This Puzzle Game Solver utilized A* algorithm to give the best movement solution.<br /><br />
-A* algorithm is using priority queue to process highest priority element and manhattan distance to count heuristic of given or current state.
+A* algorithm is using priority queue to process highest priority element and manhattan distance to count heuristic of given or current state.<br />
 Manhattan distance is calculated as the sum of absolute differences between two vectors.
 
 How to use the code:
